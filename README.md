@@ -1,3 +1,12 @@
+---
+title: StyleForge AI
+emoji: 🎨
+colorFrom: purple
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # StyleForge AI
 
 > Transform any photo into a painting using deep learning.
